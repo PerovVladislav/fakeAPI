@@ -1,8 +1,13 @@
 {
-  "type": "success",
-  "value":
-  {
-    "id": 594,
-    "joke": "Chuck Norris built the hospital he was born in."
-  }
+  "jokes":
+  [
+    {
+      "type": "success",
+      "value":
+      {
+        "id": 594,
+        "joke": "Chuck Norris built the hospital he was born in."
+      }
+    }
+  ]
 }
