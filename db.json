@@ -1,7 +1,7 @@
 {
-  "jokes":
-  [
+  "jokes": [
     {
+      "id": 1,
       "type": "success",
       "value":
       {
