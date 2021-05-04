@@ -1,13 +1,34 @@
 {
-  "jokes": [
+  "Restaurants": [
     {
       "id": 1,
-      "type": "success",
-      "value":
-      {
-        "id": 594,
-        "joke": "Chuck Norris built the hospital he was born in."
-      }
+      "Picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "Name": "McDonald's",
+      "Rating": "4.7"
+    },
+    {
+      "id": 2,
+      "Picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "Name": "KFC",
+      "Rating": "4.7"
+    },
+    {
+      "id": 3,
+      "Picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "Name": "Burger King",
+      "Rating": "4.8"
+    },
+    {
+      "id": 4,
+      "Picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "Name": "Domino's Pizza",
+      "Rating": "4.4"
+    },
+    {
+      "id": 5,
+      "Picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "Name": "VanWok",
+      "Rating": "4.8"
     }
   ]
 }
