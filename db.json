@@ -2,33 +2,33 @@
   "restaurants": [
     {
       "id": 1,
-      "Picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "Name": "McDonald's",
-      "Rating": "4.7"
+      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "name": "McDonald's",
+      "rating": "4.7"
     },
     {
       "id": 2,
-      "Picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "Name": "KFC",
-      "Rating": "4.7"
+      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "name": "KFC",
+      "rating": "4.7"
     },
     {
       "id": 3,
-      "Picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "Name": "Burger King",
-      "Rating": "4.8"
+      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "name": "Burger King",
+      "rating": "4.8"
     },
     {
       "id": 4,
-      "Picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "Name": "Domino's Pizza",
-      "Rating": "4.4"
+      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "name": "Domino's Pizza",
+      "rating": "4.4"
     },
     {
       "id": 5,
-      "Picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "Name": "VanWok",
-      "Rating": "4.8"
+      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "name": "VanWok",
+      "rating": "4.8"
     }
   ]
 }
