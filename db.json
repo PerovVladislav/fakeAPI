@@ -3,32 +3,27 @@
     {
       "id": 1,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "name": "McDonald's",
-      "rating": "4.7"
+      "name": "McDonald's"
     },
     {
       "id": 2,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "name": "KFC",
-      "rating": "4.7"
+      "name": "KFC"
     },
     {
       "id": 3,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "name": "Burger King",
-      "rating": "4.8"
+      "name": "Burger King"
     },
     {
       "id": 4,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "name": "Domino's Pizza",
-      "rating": "4.4"
+      "name": "Domino's Pizza"
     },
     {
       "id": 5,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "name": "VanWok",
-      "rating": "4.8"
+      "name": "VanWok"
     }
   ],
   "products": [
