@@ -31,70 +31,70 @@
       "id": 1,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
       "name": "Мак1",
-      "cost": 99.99,
+      "cost": 99,
       "id_restaurant": 1
     },
     {
       "id": 2,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
       "name": "Мак2",
-      "cost": 99.99,
+      "cost": 99,
       "id_restaurant": 1
     },
     {
       "id": 3,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
       "name": "Мак3",
-      "cost": 99.99,
+      "cost": 99,
       "id_restaurant": 1
     },
     {
       "id": 4,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
       "name": "Мак4",
-      "cost": 99.99,
+      "cost": 99,
       "id_restaurant": 1
     },
     {
       "id": 5,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
       "name": "Мак5",
-      "cost": 99.99,
+      "cost": 99,
       "id_restaurant": 1
     },
     {
       "id": 6,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
       "name": "БК1",
-      "cost": 99.99,
+      "cost": 99,
       "id_restaurant": 3
     },
     {
       "id": 7,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
       "name": "БК2",
-      "cost": 99.99,
+      "cost": 99,
       "id_restaurant": 3
     },
     {
       "id": 8,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
       "name": "БК3",
-      "cost": 99.99,
+      "cost": 99,
       "id_restaurant": 3
     },
     {
       "id": 9,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
       "name": "БК4",
-      "cost": 99.99,
+      "cost": 99,
       "id_restaurant": 3
     },
     {
       "id": 10,
       "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
       "name": "БК5",
-      "cost": 99.99,
+      "cost": 99,
       "id_restaurant": 3
     }
   ]
