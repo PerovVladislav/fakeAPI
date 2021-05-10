@@ -96,6 +96,41 @@
       "name": "Картофель по-деревенски",
       "cost": 50,
       "id_restaurant": 2
+    },
+    {
+      "id": 11,
+      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/8558fc53486914c3bd1adeedc26da85f.webp",
+      "name": "Начос Кинг",
+      "cost": 239,
+      "id_restaurant": 3
+    },
+    {
+      "id": 12,
+      "picture": "https://s82079.cdn.ngenix.net/330x0/1eKMTpqmU4kfM7CXsJZc3VWF.png",
+      "name": "Чизбургер Де Люкс",
+      "cost": 129,
+      "id_restaurant": 3
+    },
+    {
+      "id": 13,
+      "picture": "https://s82079.cdn.ngenix.net/330x0/aw732092dqfmtlfnf7szpcs1zt5d",
+      "name": "Наггетсы",
+      "cost": 69,
+      "id_restaurant": 3
+    },
+    {
+      "id": 14,
+      "picture": "https://s82079.cdn.ngenix.net/330x0/9fh3NYyrKj4pm41ERm8jG2E6.png",
+      "name": "Картофель Фри",
+      "cost": 50,
+      "id_restaurant": 3
+    },
+    {
+      "id": 15,
+      "picture": "https://s82079.cdn.ngenix.net/330x0/t4ekgqi7roq6PPpiXciRkhtu.png",
+      "name": "Картофель по-деревенски",
+      "cost": 50,
+      "id_restaurant": 3
     }
   ]
 }
