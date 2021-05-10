@@ -36,28 +36,28 @@
     },
     {
       "id": 2,
-      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "picture": "https://mcdonalds.ru/resize/500x500//upload/iblock/23e/0000_TripleCheeseburger_BB_1500x1500_dostavka_only_min.png",
       "name": "Тройной Чизбургер",
       "cost": 169,
       "id_restaurant": 1
     },
     {
       "id": 3,
-      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "picture": "https://mcdonalds.ru/resize/500x500//upload/iblock/151/0000_Chicken_wings_new_5_1500x1500_min.png",
       "name": "Куриные крылышки",
       "cost": 199,
       "id_restaurant": 1
     },
     {
       "id": 4,
-      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "picture": "https://mcdonalds.ru/resize/500x500//upload/iblock/458/3010_Fries_medium_1500x1500_min.png",
       "name": "Картофель Фри",
       "cost": 67,
       "id_restaurant": 1
     },
     {
       "id": 5,
-      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
+      "picture": "https://mcdonalds.ru/resize/500x500//upload/iblock/618/3003_Potat_Wedges_1500x1500_min.png",
       "name": "Картофель по-деревенски",
       "cost": 77,
       "id_restaurant": 1
