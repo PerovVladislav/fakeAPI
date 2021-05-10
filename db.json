@@ -64,38 +64,38 @@
     },
     {
       "id": 6,
-      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "name": "БК1",
-      "cost": 99,
-      "id_restaurant": 3
+      "picture": "https://s82079.cdn.ngenix.net/330x0/6vN4HWJJUP4AYZfMg37LsuDv.png",
+      "name": "Шефбургер",
+      "cost": 134,
+      "id_restaurant": 2
     },
     {
       "id": 7,
-      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "name": "БК2",
-      "cost": 99,
-      "id_restaurant": 3
+      "picture": "https://s82079.cdn.ngenix.net/330x0/1eKMTpqmU4kfM7CXsJZc3VWF.png",
+      "name": "Чизбургер Де Люкс",
+      "cost": 129,
+      "id_restaurant": 2
     },
     {
       "id": 8,
-      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "name": "БК3",
-      "cost": 99,
-      "id_restaurant": 3
+      "picture": "https://s82079.cdn.ngenix.net/330x0/aw732092dqfmtlfnf7szpcs1zt5d",
+      "name": "Наггетсы",
+      "cost": 69,
+      "id_restaurant": 2
     },
     {
       "id": 9,
-      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "name": "БК4",
-      "cost": 99,
-      "id_restaurant": 3
+      "picture": "https://s82079.cdn.ngenix.net/330x0/9fh3NYyrKj4pm41ERm8jG2E6.png",
+      "name": "Картофель Фри",
+      "cost": 50,
+      "id_restaurant": 2
     },
     {
       "id": 10,
-      "picture": "https://stihi.ru/pics/2012/12/28/5790.jpg",
-      "name": "БК5",
-      "cost": 99,
-      "id_restaurant": 3
+      "picture": "https://s82079.cdn.ngenix.net/330x0/t4ekgqi7roq6PPpiXciRkhtu.png",
+      "name": "Картофель по-деревенски",
+      "cost": 50,
+      "id_restaurant": 2
     }
   ]
 }
