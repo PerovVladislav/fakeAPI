@@ -131,6 +131,41 @@
       "name": "Биг Кинг",
       "cost": 144,
       "id_restaurant": 3
+    },
+    {
+      "id": 16,
+      "picture": "https://dpr-cdn.azureedge.net/api/medium/ProductOsg/Global/%D0%9F%D0%95%D0%9F%D0%95/NULL/270x270/RU?v=c4c21224e26d70ca02d7762a4373e3c2-1620653400000",
+      "name": "Пепперони",
+      "cost": 399,
+      "id_restaurant": 4
+    },
+    {
+      "id": 17,
+      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/2400898c7d08cccbb5c407851d65e937.webp",
+      "name": "Беконайзер",
+      "cost": 309,
+      "id_restaurant": 4
+    },
+    {
+      "id": 18,
+      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/cd20296f04dd73a5141aa09d8ffc9787.webp",
+      "name": "Стейкхаус",
+      "cost": 259,
+      "id_restaurant": 4
+    },
+    {
+      "id": 19,
+      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/d23346b39930ad0b4df7828cb0fc8b3c.webp",
+      "name": "Двойной Воппер",
+      "cost": 289,
+      "id_restaurant": 4
+    },
+    {
+      "id": 20,
+      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/cfec1fc9e3642f670d6e9a035eb9a95d.webp",
+      "name": "Биг Кинг",
+      "cost": 144,
+      "id_restaurant": 4
     }
   ]
 }
