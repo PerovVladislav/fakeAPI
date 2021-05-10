@@ -106,30 +106,30 @@
     },
     {
       "id": 12,
-      "picture": "https://s82079.cdn.ngenix.net/330x0/1eKMTpqmU4kfM7CXsJZc3VWF.png",
-      "name": "Чизбургер Де Люкс",
-      "cost": 129,
+      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/2400898c7d08cccbb5c407851d65e937.webp",
+      "name": "Беконайзер",
+      "cost": 309,
       "id_restaurant": 3
     },
     {
       "id": 13,
-      "picture": "https://s82079.cdn.ngenix.net/330x0/aw732092dqfmtlfnf7szpcs1zt5d",
-      "name": "Наггетсы",
-      "cost": 69,
+      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/cd20296f04dd73a5141aa09d8ffc9787.webp",
+      "name": "Стейкхаус",
+      "cost": 259,
       "id_restaurant": 3
     },
     {
       "id": 14,
-      "picture": "https://s82079.cdn.ngenix.net/330x0/9fh3NYyrKj4pm41ERm8jG2E6.png",
-      "name": "Картофель Фри",
-      "cost": 50,
+      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/d23346b39930ad0b4df7828cb0fc8b3c.webp",
+      "name": "Двойной Воппер",
+      "cost": 289,
       "id_restaurant": 3
     },
     {
       "id": 15,
-      "picture": "https://s82079.cdn.ngenix.net/330x0/t4ekgqi7roq6PPpiXciRkhtu.png",
-      "name": "Картофель по-деревенски",
-      "cost": 50,
+      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/cfec1fc9e3642f670d6e9a035eb9a95d.webp",
+      "name": "Биг Кинг",
+      "cost": 144,
       "id_restaurant": 3
     }
   ]
