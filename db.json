@@ -52,9 +52,9 @@
     },
     {
       "id": 5,
-      "picture": "https://mcdonalds.ru/resize/500x500//upload/iblock/618/3003_Potat_Wedges_1500x1500_min.png",
-      "name": "Картофель по-деревенски",
-      "cost": 77,
+      "picture": "https://mcdonalds.ru/resize/500x500//upload/iblock/e20/7040_cola_05_1500x1500_brand_min.png",
+      "name": "Кока-Кола",
+      "cost": 78,
       "id_restaurant": 1
     },
     {
@@ -87,9 +87,9 @@
     },
     {
       "id": 10,
-      "picture": "https://s82079.cdn.ngenix.net/330x0/t4ekgqi7roq6PPpiXciRkhtu.png",
-      "name": "Картофель по-деревенски",
-      "cost": 50,
+      "picture": "https://s82079.cdn.ngenix.net/330x0/thHStyEicNf9AcZNz7ExPQFE.png",
+      "name": "Пепси Кола",
+      "cost": 89,
       "id_restaurant": 2
     },
     {
