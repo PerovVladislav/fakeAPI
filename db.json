@@ -36,8 +36,8 @@
     },
     {
       "id": 2,
-      "picture": "https://mcdonalds.ru/resize/500x500//upload/iblock/23e/0000_TripleCheeseburger_BB_1500x1500_dostavka_only_min.png",
-      "name": "Тройной Чизбургер",
+      "picture": "https://mcdonalds.ru/resize/500x500//upload/iblock/dfa/0000_BigMac_BB_1500x1500-_4_-_1_.png",
+      "name": "Биг Мак",
       "cost": 169,
       "id_restaurant": 1
     },
