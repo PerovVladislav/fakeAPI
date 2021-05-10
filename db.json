@@ -141,30 +141,30 @@
     },
     {
       "id": 17,
-      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/2400898c7d08cccbb5c407851d65e937.webp",
-      "name": "Беконайзер",
-      "cost": 309,
+      "picture": "https://dpr-cdn.azureedge.net/api/medium/ProductOsg/Global/_%D0%9C%D0%90%D0%A0%D0%93%D0%93%D0%A0%D0%9C/NULL/270x270/RU?v=c4c21224e26d70ca02d7762a4373e3c2-1620653400000",
+      "name": "Маргарита Гурме",
+      "cost": 199,
       "id_restaurant": 4
     },
     {
       "id": 18,
-      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/cd20296f04dd73a5141aa09d8ffc9787.webp",
-      "name": "Стейкхаус",
-      "cost": 259,
+      "picture": "https://dpr-cdn.azureedge.net/api/medium/ProductOsg/Global/_DOMSV/NULL/270x270/RU?v=c4c21224e26d70ca02d7762a4373e3c2-1620653400000",
+      "name": "Домашняя",
+      "cost": 399,
       "id_restaurant": 4
     },
     {
       "id": 19,
-      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/d23346b39930ad0b4df7828cb0fc8b3c.webp",
-      "name": "Двойной Воппер",
-      "cost": 289,
+      "picture": "https://dpr-cdn.azureedge.net/api/medium/ProductOsg/Global/%D0%93%D0%90%D0%92%D0%90/NULL/270x270/RU?v=c4c21224e26d70ca02d7762a4373e3c2-1620653400000",
+      "name": "Гавайская",
+      "cost": 399,
       "id_restaurant": 4
     },
     {
       "id": 20,
-      "picture": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/cfec1fc9e3642f670d6e9a035eb9a95d.webp",
-      "name": "Биг Кинг",
-      "cost": 144,
+      "picture": "https://dpr-cdn.azureedge.net/api/medium/ProductOsg/Global/4CHEESE/NULL/270x270/RU?v=c4c21224e26d70ca02d7762a4373e3c2-1620653400000",
+      "name": "4 Сыра",
+      "cost": 649,
       "id_restaurant": 4
     }
   ]
